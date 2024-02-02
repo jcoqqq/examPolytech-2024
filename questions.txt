@@ -1,0 +1,14 @@
+16) Qu'est ce que Docker ? A quoi cela sert-il ?
+
+Docker est une plateforme open-source qui peremt de conteneurisé d'autres applications afin de faciliter leurs déploiements ou leurs mises en production.
+Cela permet notamment de se passer de la gestion des dépendances puisque l'application conteneurisé a tout pour fonctionner.
+
+17) Qu'est ce que la CI et la CD ? Pourquoi est-ce utile ?
+La CI (continuous integration) et la CD (continuous deployment) sont des pratiques logiciels visant à améliorer le déploiement des applications.
+Ces pratiques permettent d'effectuer un certain nombre de vérification sur les applications avant leur déploiement (check des Tests Unitaires, analyse 
+des bonnes pratiques via Sonarqube...). Elles permettent donc d'automatiser la mis en production la rendant plus sur car les mêmes vérifications sont effectuées
+à chaque fois. 
+
+18) Qu'avez vous pensez du cours ?
+
+
